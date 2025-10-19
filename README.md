@@ -1,6 +1,6 @@
 # Crypto Price Watch
 
-A modern, clean cryptocurrency monitoring web application built with Next.js and ShadCN UI.
+A modern, clean cryptocurrency monitoring web application i built built with Next.js and ShadCN UI.
 
 ## Features
 
