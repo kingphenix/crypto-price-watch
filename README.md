@@ -6,7 +6,7 @@ A modern, clean cryptocurrency monitoring web application i built built with Nex
 
 - **Real-time Price Monitoring**: Track cryptocurrency prices with live updates
 - **Clean Modern UI**: Built with ShadCN UI components and Tailwind CSS
-- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices using ShadCN
 - **Search Functionality**: Easily search and filter cryptocurrencies
 - **Market Statistics**: View total market cap, 24h volume, and price changes
 - **White and Blue Theme**: Clean color scheme as requested
