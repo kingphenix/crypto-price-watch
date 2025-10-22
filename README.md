@@ -1,4 +1,4 @@
-# Crypto Price Watch
+# Crypto Price Watch (DEMO)
 
 A modern, clean cryptocurrency monitoring web application i built built with Next.js and ShadCN UI.
 
